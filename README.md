@@ -1,8 +1,15 @@
-<h1 align="center">Hi 👋, I'm Mohit Manik Bhatt</h1>
-<h3 align="center">Software Developer | Building things with code, one commit at a time</h3>
+<p align="center">
+  <a href="https://github.com/mohitmanikbhatt">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohit+Manik+Bhatt;Software+Developer;AI+%26+Full-Stack+Enthusiast;I+love+building+cool+projects" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mohitmanikbhatt&label=Profile%20views&color=0e75b6&style=flat" alt="mohitmanikbhatt" />
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </p>
 
 - 🔭 I'm currently working on **personal & open-source projects**
@@ -37,6 +44,14 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohitmanikbhatt/mohitmanikbhatt/output/github-contribution-grid-snake-dark.svg">
     <img alt="github-snake" src="https://raw.githubusercontent.com/mohitmanikbhatt/mohitmanikbhatt/output/github-contribution-grid-snake.svg">
   </picture>
+</p>
+
+---
+
+### 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohitmanikbhatt&theme=react-dark" alt="mohitmanikbhatt" width="100%" />
 </p>
 
 ---
