@@ -45,11 +45,9 @@
 
 ### 📌 Featured Projects
 
-> Apne top 2-3 projects yahan add kar dena (naam + ek line description), README me sabse zyada dekha jaane wala section yahi hota hai.
-
-- **[Project Name]** – Short description of what it does and tech used.
-- **[Project Name]** – Short description of what it does and tech used.
-- **[Project Name]** – Short description of what it does and tech used.
+- **[AI Brand Voice Generator](https://github.com/mohitmanikbhatt/AI-Brand-Voice-Generator)** – AI-powered web app that learns a brand's tone from sample text and generates on-brand marketing content (social posts, emails, taglines, ad headlines, blog intros) using Google Gemini + LangChain.
+- **[Predictive Maintenance System (pm)](https://github.com/mohitmanikbhatt/pm)** – AI-based Predictive Maintenance System built with FastAPI, React and Machine Learning.
+- **[Amrapali Assistant](https://github.com/mohitmanikbhatt/amrapali-assistant)** – A Python-based assistant project.
 
 ---
 
