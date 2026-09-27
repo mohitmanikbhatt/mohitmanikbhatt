@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:1DA1F2&height=180&section=header&text=Mohit%20Manik%20Bhatt&fontSize=45&fontColor=ffffff&animation=fadeIn" width="100%"/>
+
 <p align="center">
   <a href="https://github.com/mohitmanikbhatt">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohit+Manik+Bhatt;Software+Developer;AI+%26+Full-Stack+Enthusiast;I+love+building+cool+projects" alt="Typing SVG" />
@@ -5,7 +7,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohitmanikbhatt&label=Profile%20views&color=0e75b6&style=flat" alt="mohitmanikbhatt" />
+  <img src="https://komarev.com/ghpvc/?username=mohitmanikbhatt&label=Profile%20views&color=0e75b6&style=flat" alt="mohitmanikbhatt" />&nbsp;
+  <img src="https://img.shields.io/github/followers/mohitmanikbhatt?label=Followers&style=flat&color=0e75b6" alt="followers" />&nbsp;
+  <img src="https://img.shields.io/github/stars/mohitmanikbhatt?affiliations=OWNER%2CCOLLABORATOR&style=flat&color=0e75b6" alt="stars" />
 </p>
 
 <p align="center">
@@ -17,6 +21,10 @@
 - 👯 I'm open to collaborating on **web development and open-source projects**
 - 💬 Ask me about **web development, DSA, and building side projects**
 - ⚡ Fun fact: **I learn best by building — not just reading docs**
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="500">
+</p>
 
 ---
 
@@ -77,6 +85,20 @@
 
 ---
 
+### 🔥 Top Contributed Repo
+
+<p align="left">
+  <img src="https://github-contributor-stats.vercel.app/api?username=mohitmanikbhatt&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="mohitmanikbhatt" />
+</p>
+
+---
+
+### ⚡ Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
 ### 📌 Featured Projects
 
 - **[AI Brand Voice Generator](https://github.com/mohitmanikbhatt/AI-Brand-Voice-Generator)** – AI-powered web app that learns a brand's tone from sample text and generates on-brand marketing content (social posts, emails, taglines, ad headlines, blog intros) using Google Gemini + LangChain.
@@ -98,3 +120,5 @@
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" width="30" height="30"/>
   </a>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1DA1F2,100:0E75B6&height=100&section=footer" width="100%"/>
