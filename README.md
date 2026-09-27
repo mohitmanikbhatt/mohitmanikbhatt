@@ -54,6 +54,14 @@
 
 ---
 
+### 🏆 Trophies
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=mohitmanikbhatt&theme=radical&no-frame=true&row=1&column=7" alt="mohitmanikbhatt" />
+</p>
+
+---
+
 ### 📌 Featured Projects
 
 - **[AI Brand Voice Generator](https://github.com/mohitmanikbhatt/AI-Brand-Voice-Generator)** – AI-powered web app that learns a brand's tone from sample text and generates on-brand marketing content (social posts, emails, taglines, ad headlines, blog intros) using Google Gemini + LangChain.
